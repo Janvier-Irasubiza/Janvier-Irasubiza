@@ -17,7 +17,8 @@ I’m a **Software Engineer** and **Cybersecurity Enthusiast** from Rwanda, pass
 ### 📌 Featured Projects
 
 * **Moto Boda (Winner RW)** – Virtual interactive betting game built with React-TS & DRF
-* **BScholarz** – University application tracking platform
+* **Web Crawler** WebCrawler that returns number of viewers of a certain website, their region and time spent viewing. Also to return all .rw websites out there in the internet.  [WebCrawler](https://github.com/Janvier-Irasubiza/web-crawler)
+* **Fileless Maleware** - (Final NCSA Training Project) a malicious software that avoids storing its payload on disk. ​Instead, it operates entirely in volatile memory (RAM) by exploiting legitimate system​ tools and processes.
 ---
 
 ### 🎓 Education & Training
