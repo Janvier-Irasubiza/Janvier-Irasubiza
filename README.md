@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Janvier Irasubiza
 
-I’m a **Software Engineer** and **Cybersecurity Enthusiast** from Rwanda, passionate about building scalable software solutions and securing digital systems. My work spans **software development**, **system administration**, and **cybersecurity operations** — blending creativity with technical precision.
+I’m a **Software Engineer** and **Cybersecurity Enthusiast**, passionate about building scalable software solutions and securing digital systems. My work spans **software development**, **system administration**, and **cybersecurity operations** — blending creativity with technical precision.
 
 ---
 
