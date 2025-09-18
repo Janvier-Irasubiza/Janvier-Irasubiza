@@ -17,7 +17,7 @@ I’m a **Software Engineer** and **Cybersecurity Enthusiast**, passionate about
 ### 📌 Featured Projects
 
 * **[Moto Boda (Winner RW)](https://motoboda.com/)** – Virtual interactive betting game built with React-TS & DRF
-* **[Web Crawler](https://github.com/Janvier-Irasubiza/web-crawler)** WebCrawler that returns number of viewers of a certain website, their region and time spent viewing. Also to return all .rw websites out there in the internet.
+* **[Web Crawler](https://github.com/Janvier-Irasubiza/web-crawler)** returns number of viewers of a certain website, their region and time spent viewing. Also to return all .rw websites out there in the internet.
 * **Fileless Malware** - (Final NCSA Training Project) a malicious software that avoids storing its payload on disk. ​Instead, it operates entirely in volatile memory (RAM) by exploiting legitimate system​ tools and processes.
 ---
 
